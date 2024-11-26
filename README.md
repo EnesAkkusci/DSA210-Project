@@ -3,17 +3,17 @@
 ## Description
 
 My name is Enes Akkusci and this is the repository for my Sabanci University CS210 Introduction to Data Science Course Project. 
-This porject will consist of analysis and the visualazation of my Youtube user data.
+This project will consist of analysis and the visualazation of my Youtube user data.
 
 ## Table of Contents
 
 **[Motivation](#motivation)**
 
-Tools
+**[Tools](#tools)**
 
-Data Source
+**[Data Source](#data-source)**
 
-Data Analysis
+**[Data Analysis](data-analysis)**
 
 ## Motivation
 
@@ -23,10 +23,10 @@ Youtube is the social media app I use by far the most and I am already aware tha
 
 The following are the tools I expect to use during the implementation of this project.
 
-JupyterNotebook
-Pandas
-Plotly
-Numpy
+- JupyterNotebook
+- Pandas
+- Plotly
+- Numpy
 
 ## Data Source
 
