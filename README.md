@@ -21,7 +21,7 @@ Youtube is the social media app I use by far the most and I am already aware tha
 
 ## Tools
 
-The following are the tools I expect to use during the implementation of this project.
+The following are the tools and libraries I used during the implementation of this project.
 
 - Jupyter Notebook : The platform I wrote and ran my code on.
 - Pandas : A python library for reading csv files and using them with plotly.
