@@ -23,10 +23,14 @@ Youtube is the social media app I use by far the most and I am already aware tha
 
 The following are the tools I expect to use during the implementation of this project.
 
-- JupyterNotebook
-- Pandas
-- Plotly
-- Numpy
+- Jupyter Notebook : The platform I wrote and ran my code on.
+- Pandas : A python library for reading csv files and using them with plotly.
+- Plotly : A python library that uses csv file data to generate graphs.
+- Numpy : A python library that is used for working with arrays.
+- Matplotlib : A python library that is used in math calculation needed for some graphs.
+- Beautiful Soup : A python library that reads and processes html.
+- lxml : A improved html parser for the bs4 library that is faster than the default parser. 
+- Word Cloud : The python library I used to generate the word cloud graph.
 
 ## Data Source
 
