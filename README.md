@@ -27,7 +27,7 @@ The following are the tools and libraries I used during the implementation of th
 - Pandas : A python library for reading csv files and using them with plotly.
 - Plotly : A python library that uses csv file data to generate graphs.
 - Numpy : A python library that is used for working with arrays.
-- Matplotlib : A python library that is used in math calculation needed for some graphs.
+- Matplotlib : A python library that is needed for some of the graphs used in the project.
 - Beautiful Soup : A python library that reads and processes html.
 - lxml : A improved html parser for the bs4 library that is faster than the default parser. 
 - Word Cloud : The python library I used to generate the word cloud graph.
