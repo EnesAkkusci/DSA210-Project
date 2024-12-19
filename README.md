@@ -17,7 +17,7 @@ This project will consist of analysis and the visualazation of my Youtube user d
 
 ## Motivation
 
-Youtube is the social media app I use by far the most and I am already aware that I might be spending too much time on it. By the analysis of my usage data I aim to observe patterns and habits I have and learn from them. This may better inform me about my time and content management regarding Youtube. I believe seeing just what and how I spend so much time on will be benefitial to me.
+Youtube is the only social media app use on a regular basis and I am already aware that I might be spending too much time on it. By the analysis of my usage data I aim to observe patterns and habits I have, and learn from them. This may better inform me about my time and my content management regarding Youtube. I believe seeing just what and how I spend so much time on will be benefitial to me.
 
 ## Tools
 
@@ -34,8 +34,8 @@ The following are the tools and libraries I used during the implementation of th
 
 ## Data Source
 
-I used Youtube's requesting user data feature as my main source of data. This return all sorts of data regarding a Youtube account. I predict I will mostly end up using watch and search history and comment data from these. The returned data from Youtube is partially in .html, partially in .csv format.
+My sources of data were my Youtube account and phone health app. Both had data request services that send you your user data. From YouTube's sent data I utilized the dates, hours, titles and channels of the videos I have watced in the last nine months. As for the health app I used my daily step data to see if there was a connection between my content consumption and daily physical activity. 
 
 ## Data Analysis
 
-Currently my plans are to analyse my watch history data for most observed channels, keywords in titles, topics and areas. With this I plan to detect patterns and create graphs to visualize repeating patterns. Similar processes can also be done to my search history data and comments.
+I used the above listed python libraries for the analysis of my data. The each individual step of the process is explained in the JupyterNotebook file.
