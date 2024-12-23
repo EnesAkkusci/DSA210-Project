@@ -5,6 +5,8 @@
 My name is Enes Akkusci and this is the repository for my Sabanci University CS210 Introduction to Data Science Course Project. 
 This project will consist of analysis and the visualazation of my Youtube user data.
 
+The presentation video for the project: https://drive.google.com/file/d/1lT5hDCt20gCJGpzdhOXK0CXcBi1G_juq/view?usp=sharing
+
 ## Table of Contents
 
 **[Motivation](#motivation)**
